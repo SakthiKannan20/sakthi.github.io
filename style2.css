@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+}
+.center{
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 margin-left: auto;
+	 margin-top: auto;
+	 margin-right: auto;
+	 margin-bottom: auto;
+	 height: 45%;
+	 width: 60%;
+
+}
+footer{
+	text-align: center;
+}
